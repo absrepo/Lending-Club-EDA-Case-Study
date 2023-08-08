@@ -41,7 +41,6 @@ We need to use EDA skills to analyse the loan data provided by the company and a
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by Upgrad Case Study assignment in collaboration with IIIT Banaglore
 
 
